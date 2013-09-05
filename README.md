@@ -1,4 +1,4 @@
-Dailymotion Videos
+Dm Videos
 ------------
 
 This app makes it easier to watch videos from Dailymotion on Google TV devices.
@@ -8,6 +8,10 @@ The dailymotion 'app' (its more like a mobile website) is not really optimized f
 This application uses the Dailymotion APIs to get the video information.
 
 Download APK: https://github.com/frankkienl/DailymotionVideos/raw/master/DailymotionVideos/DailymotionVideos.apk
+
+
+NOTE:
+This app has been renamed from 'Dailymotion Videos' to 'Dm Videos' because I was not allowed to use the name 'Dailymotion' in my App-name.
 
 
 Licence
